@@ -2,3 +2,5 @@ This is my first git file.
 
 Next i will merge this.:wq
 So lets see what gonna happen. ;)
+:wq
+
